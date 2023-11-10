@@ -117,6 +117,6 @@ Choosing the first category of products, it overlaps with the second one.
 
 ---------------------------------------
 
-# The following Bugs Samples are for the site: https://juice-shop.herokuapp.com/
+### The following Bugs Samples are for the site: https://juice-shop.herokuapp.com/
 
 -----------------------------------------------------------------------------
