@@ -25,7 +25,7 @@ The order placement fields do not have enough information to order a product.
 
 ----------------------------
 
-1. **Priority and severity:**
+2. **Priority and severity:**
 P1-High
 
 **Title:**
@@ -50,7 +50,7 @@ After entering the payment data, it does not appear any secure payment gateway.
 
 ----------------------
 
-1. **Priority and severity:**
+3. **Priority and severity:**
 P1-High
 
 **Title:**
@@ -73,7 +73,7 @@ The order confirmation on the user’s email is missing.
 
 ----------------------------------
 
-1. **Priority and severity:**
+4. **Priority and severity:**
 P3-Normal
 
 **Title:**
@@ -95,7 +95,7 @@ The logo does not send you to the main page.
 
 -----------------------------------------
 
-1. **Priority and severity:**
+5. **Priority and severity:**
 P2-Normal
 
 **Title:**
