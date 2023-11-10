@@ -72,3 +72,47 @@ After the user places and confirms an order, an order confirmation should appear
 The order confirmation on the user’s email is missing.
 
 ----------------------------------
+
+**Priority and severity:**
+P3 - Normal
+
+**Title:**
+Footer logo is not working
+
+**Description:**
+When pressing the logo at the bottom, nothing happens. It cannot return you to the main page.
+
+**Steps to reproduce:**
+1. Go to https://www.demoblaze.com/
+2. Go to the bottom 
+3. Press the logo Product Store
+
+**Expected result:**
+Pressing the logo, this should send you to the main page.
+
+**Actual result:**
+The logo does not send you to the main page.
+
+-----------------------------------------
+
+**Priority and severity:**
+P2-Normal
+
+**Title:**
+Poducts categories overlap
+
+**Description:**
+When choosing a product category, another category overlaps.
+
+**Steps to reproduce:** 
+1. Go to https://www.demoblaze.com/
+2. Choose the first category of products
+3. Press on it
+
+**Expected result:**
+Choosing a product category, this should display only products from this category. 
+
+**Actual result:** 
+Choosing the first category of products, it overlaps with the second one.
+
+---------------------------------------
