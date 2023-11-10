@@ -22,6 +22,7 @@ To order a product, more information is needed so that the buyer can be contacte
 
 **Actual result:**
 The order placement fields do not have enough information to order a product.
+
 ----------------------------
 
 **Priority and severity:**
@@ -46,6 +47,7 @@ After selecting the payment method, the buyer must be directed to a secure payme
 
 **Actual result:**
 After entering the payment data, it does not appear any secure payment gateway.
+
 ----------------------
 
 **Priority and severity:**
@@ -68,4 +70,5 @@ After the user places and confirms an order, an order confirmation should appear
 
 **Actual result:**
 The order confirmation on the user’s email is missing.
+
 ----------------------------------
