@@ -3,7 +3,7 @@ Below are some Bugs Samples for the site https://www.demoblaze.com/
 
 --------------------------------------
 
-1. **Priority and severity:**
+1.**Priority and severity:**
 P1-High
 
 **Title:**
