@@ -3,7 +3,7 @@ Below are some Bugs Samples for the site https://www.demoblaze.com/
 
 --------------------------------------
 
-- **Priority and severity:**
+1. **Priority and severity:**
 P1-High
 
 **Title:**
@@ -25,7 +25,7 @@ The order placement fields do not have enough information to order a product.
 
 ----------------------------
 
-+ **Priority and severity:**
+1. **Priority and severity:**
 P1-High
 
 **Title:**
@@ -50,7 +50,7 @@ After entering the payment data, it does not appear any secure payment gateway.
 
 ----------------------
 
-* **Priority and severity:**
+1. **Priority and severity:**
 P1-High
 
 **Title:**
@@ -73,8 +73,8 @@ The order confirmation on the user’s email is missing.
 
 ----------------------------------
 
-**Priority and severity:**
-P3 - Normal
+1. **Priority and severity:**
+P3-Normal
 
 **Title:**
 Footer logo is not working
@@ -95,7 +95,7 @@ The logo does not send you to the main page.
 
 -----------------------------------------
 
-**Priority and severity:**
+1. **Priority and severity:**
 P2-Normal
 
 **Title:**
