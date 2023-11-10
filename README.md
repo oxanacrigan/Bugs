@@ -120,3 +120,58 @@ Choosing the first category of products, it overlaps with the second one.
 ### The following Bugs Samples are for the site: https://juice-shop.herokuapp.com/
 
 -----------------------------------------------------------------------------
+
+**Priority and severity:**
+P1-High
+
+**Title:**
+Card details - the year
+
+**Description:**
+The year selection variants for the payment card details are abnormal.
+
+**Steps to reproduce:**
+1. Go to https://juice-shop.herokuapp.com/ 
+2. Sign in
+3. Add a product to the cart
+4. Complete the order by filling in the details
+5. Observe the card details
+
+**Expected result:**
+The options for choosing the year on the card must not be very far from the current year.
+
+**Actual result:**
+The closest year to the current year displayed in the choice box is 2080, which is not normal.
+
+---------------------------------------
+
+**Priority and severity:**
+P1-High
+
+**Title:**
+The card number
+
+**Description:**
+The field for inserting the card number accepts non-existent details.
+
+**Steps to reproduce:**
+1. Go to https://juice-shop.herokuapp.com/  
+2. Sign in
+3. Add a product to the cart
+4. Complete the order by filling in the details
+5. Observe the number card
+
+**Expected result:**
+The field for inserting the card number must only accept existing card numbers.
+
+**Actual result:**
+The field for inserting the card number accepts non-existent and irrelevant details.
+
+-----------------------------------
+
+
+
+
+
+
+
