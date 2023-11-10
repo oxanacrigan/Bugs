@@ -10,10 +10,10 @@ P1 - High
 Order information
 
 **Description:**
-When ordering a product, essential information fields are missing, such as: phone number and buyer`s e-mail, buyer`s address, delivery information.
+When ordering a product, essential information fields are missing, such as: phone number and buyer's email, buyer's address, delivery information.
 
 **Steps to reproduce:**
-1. Go to demoblaze.com 
+1. Go to https://www.demoblaze.com/
 2. Add a product to cart
 3. Fill the order information fields
 
