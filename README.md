@@ -99,7 +99,7 @@ The logo does not send you to the main page.
 P2-Normal
 
 **Title:**
-Poducts categories overlap
+Products categories overlap
 
 **Description:**
 When choosing a product category, another category overlaps.
