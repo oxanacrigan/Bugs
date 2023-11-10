@@ -3,7 +3,7 @@ Below are some Bugs Samples for the site https://www.demoblaze.com/
 
 --------------------------------------
 
--**Priority and severity:**
+- **Priority and severity:**
 P1-High
 
 **Title:**
@@ -25,7 +25,7 @@ The order placement fields do not have enough information to order a product.
 
 ----------------------------
 
-+**Priority and severity:**
++ **Priority and severity:**
 P1-High
 
 **Title:**
@@ -50,7 +50,7 @@ After entering the payment data, it does not appear any secure payment gateway.
 
 ----------------------
 
-***Priority and severity:**
+* **Priority and severity:**
 P1-High
 
 **Title:**
