@@ -169,6 +169,53 @@ The field for inserting the card number accepts non-existent and irrelevant deta
 
 -----------------------------------
 
+### The next Bugs Sample are for the site: https://www.primariatechirghiol.ro/
+
+-------------------------------------------------------
+
+**Priority and severity:**
+P2 - Medium
+
+**Title:**
+Error 404
+
+**Description:**
+The link  https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie persoana fizica.php is not found.
+
+**Steps to reproduce:**
+1. Go to https://www.primariatechirghiol.ro/ 
+2. Access  https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie persoana fizica.php 
+
+**Expected result:**
+The link should be able to open.
+
+**Actual result:**
+The link is non-existent.
+
+-----------------------------------------------
+
+**Priority and severity:**
+P1-High
+
+**Title:**
+Long loading time
+
+**Description:**
+The loading time is a little bit long, over 2 seconds.
+
+**Steps to reproduce:**
+1. Go to https://www.primariatechirghiol.ro/ 
+2. Observe the loading time.
+
+**Expected result:**
+The  loading time is short, without waiting.
+
+**Actual result:**
+The loading time is a little bit slow.
+
+----------------------------
+
+
 
 
 
