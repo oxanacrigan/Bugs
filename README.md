@@ -1,5 +1,5 @@
 # Bugs Reports
-Below are some Bugs Samples for the site https://www.demoblaze.com/
+Below are some Bugs Samples for the site: https://www.demoblaze.com/
 
 --------------------------------------
 
@@ -116,3 +116,7 @@ Choosing a product category, this should display only products from this categor
 Choosing the first category of products, it overlaps with the second one.
 
 ---------------------------------------
+
+#The following Bugs Samples are for the site: https://juice-shop.herokuapp.com/
+
+-----------------------------------------------------------------------------
