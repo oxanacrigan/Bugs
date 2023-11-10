@@ -1,5 +1,5 @@
 # Bugs Reports
-Below are some Bugs Samples for the site demoblaze.com
+Below are some Bugs Samples for the site https://www.demoblaze.com/
 
 --------------------------------------
 
