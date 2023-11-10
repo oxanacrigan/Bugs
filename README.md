@@ -4,7 +4,7 @@ Below are some Bugs Samples for the site https://www.demoblaze.com/
 --------------------------------------
 
 **Priority and severity:**
-P1 - High
+P1-High
 
 **Title:**
 Order information
