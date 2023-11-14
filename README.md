@@ -1,4 +1,5 @@
 # Bugs Reports
+
 ### Below are some Bugs Samples for the site: https://www.demoblaze.com/
 
 --------------------------------------
@@ -25,11 +26,11 @@ The order placement fields do not have enough information to order a product.
 
 ----------------------------
 
-2. **Priority and severity:**
-P1-High
-
 **Title:**
 Payment method
+
+**Priority and severity:**
+P1-High
 
 **Description:**
 Upon selecting a payment method, the user is not directed to a secure payment gateway.
@@ -50,11 +51,11 @@ After entering the payment data, it does not appear any secure payment gateway.
 
 ----------------------
 
-3. **Priority and severity:**
-P1-High
-
 **Title:**
 Order confirmation
+
+**Priority and severity:**
+P1-High
 
 **Description:**
 The order confirmation with a summary of the order is missing due to the lack of email.
@@ -73,11 +74,11 @@ The order confirmation on the user’s email is missing.
 
 ----------------------------------
 
-4. **Priority and severity:**
-P3-Normal
-
 **Title:**
 Footer logo is not working
+
+**Priority and severity:**
+P3-Normal
 
 **Description:**
 When pressing the logo at the bottom, nothing happens. It cannot return you to the main page.
@@ -94,12 +95,11 @@ Pressing the logo, this should send you to the main page.
 The logo does not send you to the main page.
 
 -----------------------------------------
-
-5. **Priority and severity:**
-P2-Normal
-
 **Title:**
 Products categories overlap
+
+**Priority and severity:**
+P2-Normal
 
 **Description:**
 When choosing a product category, another category overlaps.
@@ -121,11 +121,11 @@ Choosing the first category of products, it overlaps with the second one.
 
 -----------------------------------------------------------------------------
 
-**Priority and severity:**
-P1-High
-
 **Title:**
 Card details - the year
+
+**Priority and severity:**
+P1-High
 
 **Description:**
 The year selection variants for the payment card details are abnormal.
@@ -145,11 +145,11 @@ The closest year to the current year displayed in the choice box is 2080, which 
 
 ---------------------------------------
 
-**Priority and severity:**
-P1-High
-
 **Title:**
 The card number
+
+**Priority and severity:**
+P1-High
 
 **Description:**
 The field for inserting the card number accepts non-existent details.
@@ -173,11 +173,11 @@ The field for inserting the card number accepts non-existent and irrelevant deta
 
 -------------------------------------------------------
 
-**Priority and severity:**
-P2 - Medium
-
 **Title:**
 Error 404
+
+**Priority and severity:**
+P2 - Medium
 
 **Description:**
 The link  https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie persoana fizica.php is not found.
@@ -194,11 +194,11 @@ The link is non-existent.
 
 -----------------------------------------------
 
-**Priority and severity:**
-P1-High
-
 **Title:**
 Long loading time
+
+**Priority and severity:**
+P1-High
 
 **Description:**
 The loading time is a little bit long, over 2 seconds.
@@ -214,11 +214,3 @@ The  loading time is short, without waiting.
 The loading time is a little bit slow.
 
 ----------------------------
-
-
-
-
-
-
-
-
