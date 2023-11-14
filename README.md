@@ -180,11 +180,11 @@ Error 404
 P2 - Medium
 
 **Description:**
-The link  https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie persoana fizica.php is not found.
+The link  https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie%20persoana%20fizica.php is not found.
 
 **Steps to reproduce:**
 1. Go to https://www.primariatechirghiol.ro/ 
-2. Access  https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie persoana fizica.php 
+2. Access https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie%20persoana%20fizica.php
 
 **Expected result:**
 The link should be able to open.
