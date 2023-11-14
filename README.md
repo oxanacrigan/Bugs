@@ -177,7 +177,7 @@ The field for inserting the card number accepts non-existent and irrelevant deta
 Error 404
 
 **Priority and severity:**
-P2 - Medium
+P2-Medium
 
 **Description:**
 The link  https://www.primariatechirghiol.ro/wp-content/themes/portal/petitie%20persoana%20fizica.php is not found.
