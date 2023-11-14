@@ -3,12 +3,11 @@
 
 --------------------------------------
 
-1. **Priority and severity:**
-
-P1-High
-
 **Title:**
 Order information
+
+**Priority and severity:**
+P1-High
 
 **Description:**
 When ordering a product, essential information fields are missing, such as: phone number and buyer's email, buyer's address, delivery information.
